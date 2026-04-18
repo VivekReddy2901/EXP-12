@@ -1,4 +1,4 @@
-EXP 10 : Study of Pandas Library
+EXP 12 : Study of Pandas Library
 
 Theory
 
